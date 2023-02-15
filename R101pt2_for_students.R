@@ -14,7 +14,7 @@ input=as.numeric(input)
 if(input>100){
   print('the number you enter is greater than 100')
 } else {
-  print('the number you enter is less or equal to 100')
+  print('the number you enter is less than or equal to 100')
 }
 
 p=runif(1) # randomly pick a number from 0 to 1
